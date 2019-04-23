@@ -1,7 +1,7 @@
 var people = [
     {
     "name": "Jeff",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://loremflickr.com/320/240/man",
             "scores": [
                 5,
                 1,
@@ -18,7 +18,7 @@ var people = [
 
     {
         "name": "Mary",
-        "photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjnuefL2OThAhWpnOAKHSPnASEQjRx6BAgBEAU&url=https%3A%2F%2Fwiki.creativecommons.org%2Fwiki%2FMarking_your_work_with_a_CC_license&psig=AOvVaw0S_UI0C0K-b5pFuQXkdSUr&ust=1556056565314643",
+        "photo": "https://loremflickr.com/320/240/woman",
         "scores": [
             2,
             1,
@@ -33,4 +33,40 @@ var people = [
         ]
     },
 
+    {
+        "name": "Sharon",
+        "photo": "https://loremflickr.com/320/240/woman",
+        "scores": [
+            3,
+            5,
+            4,
+            3,
+            5,
+            4,
+            2,
+            5,
+            3,
+            4
+        ]
+    },
+
+    {
+        "name": "George",
+        "photo": "https://loremflickr.com/320/240/man",
+        "scores": [
+            1,
+            2,
+            3,
+            3,
+            5,
+            5,
+            2,
+            5,
+            3,
+            1
+        ]
+    },
+
 ]
+
+ 
