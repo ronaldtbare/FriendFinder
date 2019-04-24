@@ -1,4 +1,5 @@
 var path = require("path");
+require("./app/data/friends.js");
 
 module.exports = function (app) {
     // API GET Requests
