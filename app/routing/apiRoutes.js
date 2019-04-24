@@ -1,5 +1,5 @@
 var path = require("path");
-require("./app/data/friends.js");
+// require("./app/data/friends.js")(app);
 
 module.exports = function (app) {
     // API GET Requests
@@ -9,13 +9,13 @@ module.exports = function (app) {
     // ---------------------------------------------------------------------------
 
     app.get("/api/friends", function (req, res) {
-        //res.json(tableData);
+        //res.json(data);
         console.log("get => friends api");
     
     });
 
     app.post("/api/friends", function (req, res) {
-        // res.json(waitListData);
+        // res.json(data);
         console.log("post =>friends api");
     });
 }
